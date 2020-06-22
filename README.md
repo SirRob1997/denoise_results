@@ -31,4 +31,5 @@ Note: We have seen results that we felt more pleasant, for example, due to bette
 - [NN Denoise - Matlab | Remove Noise from Color Image Using Pretrained Neural Network](https://de.mathworks.com/help/images/remove-noise-from-color-image-using-pretrained-neural-network.html)
 - [TWSC-ECCV2018 - Matlab | A Trilateral Weighted Sparse Coding Scheme for Real-World Image Denoising](https://github.com/csjunxu/TWSC-ECCV2018)
 - [MCWNNM-ICCV2017 - Matlab | Multi-channel Weighted Nuclear Norm Minimization for Real Color Image Denoising](https://github.com/csjunxu/MCWNNM-ICCV2017)
+- [Image Denoising - Papers With Code](https://paperswithcode.com/task/image-denoising)
 - [Image Super-Resolution - Papers With Code](https://paperswithcode.com/task/image-super-resolution)
